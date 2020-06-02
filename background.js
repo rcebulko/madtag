@@ -3,7 +3,49 @@
 
 TAGS_TO_ADD = 8
 // Source: http://best-hashtags.com/hashtag/conservative/
-TAGS = ["conservative", "trump", "maga", "republican", "politics", "donaldtrump", "usa", "america", "kag", "liberal", "makeamericagreatagain", "trumptrain", "freedom", "democrat", "libertarian", "a", "americafirst", "keepamericagreat", "rightwing", "conservativememes", "prolife", "draintheswamp", "walkaway", "conservatives", "gop", "memes", "republicans", "democrats", "2ndamendment", "bhfyp", ];
+TAGS = [
+  "conservative",
+  "trump",
+  "maga",
+  "republican",
+  "donaldtrump",
+  "america",
+  "kag",
+  "makeamericagreatagain",
+  "trumptrain",
+  "freedom",
+  "americafirst",
+  "keepamericagreat",
+  "rightwing",
+  "conservativememes",
+  "prolife",
+  "draintheswamp",
+  "walkaway",
+  "conservatives",
+  "gop",
+  "republicans",
+  "2ndamendment",
+  "bhfyp",
+  "alllivesmatter",
+  "qanon",
+  "wga",
+  "constitution",
+  "guns",
+  "fakenews",
+  "potus",
+  "libtards",
+  "trumpmemes",
+  "presidenttrump",
+  "redpill",
+  "foxnews",
+  "progun",
+  "socialismsucks",
+  "merica",
+  "murica",
+  "thegreatawakening",
+  "liberalismisamentaldisorder",
+  "benshapiro",
+  ];
 
 // Source: https://www.robinhowlett.com/blog/2016/11/12/building-a-google-chrome-extension-including-keyboard-shortcuts-and-copying-to-the-clipboard/
 function copyToClipboard(contents) {
